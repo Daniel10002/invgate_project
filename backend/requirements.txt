@@ -1,0 +1,7 @@
+Django==4.2.14
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-filter==23.5
+#simple-history==3.3.0
+djangorestframework-simplejwt==5.3.1 # Si usas JWT, aunque aquí usamos TokenAuthentication
+Pillow==11.3.0 # Si manejas imágenes en modelos

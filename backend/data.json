@@ -1,0 +1,6057 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-07-14T22:13:49.861Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "E.Pedrero",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-07-14T22:13:53.300Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Enrique Pedrero",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-07-14T22:15:45.840Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "E.Pedrero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-07-14T22:16:17.988Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "E.Pedrero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-07-14T22:19:08.464Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "RadiologÝa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-07-14T22:19:21.531Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "TAC",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-07-14T22:19:34.912Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Resonancia MagnÚtica",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-07-14T22:19:39.755Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "EcografÝas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-07-14T22:19:49.130Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "MamografÝas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-07-14T22:20:19.542Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "RadiografÝa de T¾rax (0401001)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-07-14T22:20:43.652Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "RadiografÝa de Columna (0401046)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-07-14T22:21:03.194Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "TAC de Crßneo (0403001)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-07-14T22:21:28.361Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "RM de Cerebro (0405001)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-07-14T22:52:44.165Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "E.Pedrero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-07-15T01:38:06.342Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-07-15T01:38:55.306Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Carlo Cardenas",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-07-15T01:39:20.021Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-07-15T01:39:58.124Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Enrique Pedrero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Licencia M\\u00e9dica\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-07-15T01:40:07.008Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Carlo Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Licencia M\\u00e9dica\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-07-15T01:41:12.356Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-07-15T01:44:14.123Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\", \"User permissions\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-07-15T01:45:40.713Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Carlo Cardenas",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-07-15T01:45:50.592Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-07-15T01:46:10.764Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-07-15T01:52:30.225Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Perfil de C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Licencia M\\u00e9dica\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-07-15T02:05:19.242Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "E.Pedrero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Staff status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-07-15T02:09:16.200Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "Soporte",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-07-15T12:02:18.637Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "TAC de Crßneo ((0403001))",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-07-15T12:02:27.991Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "24",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"M\\u00e9dico Solicitante\", \"Ex\\u00e1menes Seleccionados\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-07-15T16:26:26.408Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "48",
+    "object_repr": "Solicitud de prueba 10 (2025-07-15)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"M\\u00e9dico Solicitante\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-07-15T20:00:10.606Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "E.Pedrero",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-07-17T21:13:22.944Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "3",
+    "object_repr": "C.Cardenas",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.709Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "53",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.719Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "51",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.729Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "33",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.738Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "31",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.747Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "30",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.757Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "24",
+    "object_repr": "Solicitud de Carlos (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.769Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "28",
+    "object_repr": "Solicitud de Carlos chaparro (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.780Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "25",
+    "object_repr": "Solicitud de daniel (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.791Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "26",
+    "object_repr": "Solicitud de daniel  davila (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.803Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "32",
+    "object_repr": "Solicitud de daniel  davila pedrero (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.814Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "27",
+    "object_repr": "Solicitud de daniel  davila pedrero (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.823Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "34",
+    "object_repr": "Solicitud de daniel pedrero (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.833Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "29",
+    "object_repr": "Solicitud de daniel pedrero (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.842Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "35",
+    "object_repr": "Solicitud de prueba (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.851Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "48",
+    "object_repr": "Solicitud de prueba 10 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.861Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "49",
+    "object_repr": "Solicitud de prueba 102 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.871Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "50",
+    "object_repr": "Solicitud de prueba 11 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.880Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "52",
+    "object_repr": "Solicitud de prueba 12 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.888Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "54",
+    "object_repr": "Solicitud de prueba 13 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.896Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "55",
+    "object_repr": "Solicitud de prueba 15 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.904Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "36",
+    "object_repr": "Solicitud de prueba 2 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.912Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "37",
+    "object_repr": "Solicitud de prueba 3 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.920Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "38",
+    "object_repr": "Solicitud de prueba 4 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.928Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "39",
+    "object_repr": "Solicitud de prueba 5 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.942Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "40",
+    "object_repr": "Solicitud de prueba 6 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.950Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "41",
+    "object_repr": "Solicitud de prueba 7 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.958Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "43",
+    "object_repr": "Solicitud de prueba 8 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.967Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "42",
+    "object_repr": "Solicitud de prueba 8 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.975Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "44",
+    "object_repr": "Solicitud de prueba 9 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2025-07-17T21:14:40.983Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "46",
+    "object_repr": "Solicitud de prueba 91 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.011Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "45",
+    "object_repr": "Solicitud de prueba 910 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.025Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "47",
+    "object_repr": "Solicitud de prueba 912 (2025-07-15)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.036Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "22",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.047Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "21",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.064Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "20",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.074Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "19",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.098Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "18",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.111Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "17",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.123Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "16",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.138Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "15",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.152Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "14",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.162Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "13",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.172Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "12",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.182Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "11",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.192Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "10",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.202Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "9",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.212Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "8",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.221Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "7",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.230Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "6",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.242Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "5",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.250Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "4",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.261Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "3",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.270Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2025-07-17T21:14:41.282Z",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "1",
+    "object_repr": "Solicitud de Carlos (2025-07-14)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$DkWj1mg1pY71IGgHd7Cigq$GqeW8bOZ5usBmkdplQ3+Y6E23npkIfusOpi0lWrmTgk=",
+    "last_login": "2025-07-18T18:02:13.280Z",
+    "is_superuser": true,
+    "username": "Soporte",
+    "first_name": "",
+    "last_name": "",
+    "email": "daniel.davila@redsalud.cl",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-14T20:17:03Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$yI45DMpgB74D32nTW3ettB$SLhR8eVz/NebCfDio65zhDfXW0PnjWpkF/D6Vd5M85A=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "E.Pedrero",
+    "first_name": "Enrique",
+    "last_name": "Pedrero",
+    "email": "E.pedrero@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-14T22:13:49Z",
+    "groups": [],
+    "user_permissions": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$ay6sPDnNmAQxv5IXPzRt06$oEgp15nfX2EigS/HNezj9Eb5GMRBnIlMoaS/L9uMezs=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "C.Cardenas",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-07-15T01:38:05Z",
+    "groups": [],
+    "user_permissions": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "47zsvyofdezasc6bkdbmvt0yz1zs9qlx",
+  "fields": {
+    "session_data": ".eJxVjEEOgjAQRe_StWmgdOjo0j1nIDPTqaCmTSisjHdXEha6_e-9_zIjbes0blWXcY7mYlpz-t2Y5KF5B_FO-VaslLwuM9tdsQetdihRn9fD_TuYqE7fGtPZRUYFR4CpYeQ-oSBq8No2zL0A9MGLoteOKCr4zkEQ0TaFzqF5fwD4WzhM:1ucpPR:OnAmCtOF_ryug8XnhEUI4U_ediYZsF2I4tjs3KUoCUg",
+    "expire_date": "2025-08-01T18:02:13.290Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "oc1nnfgbntu0zdtzlfhy1gozfv13ncqd",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hCmIwVcuvcMZJgBqZo2Ke3KeHfbpAvd_vfef6tI61Lj2vIcB1EXBer0uyXiZx53IA8a75PmaVzmIeld0Qdt-jZJfl0P9--gUqtb7RjFkmCR4HnLxHZixFDpMhSbemAEb5ztE5ytSwHZEBMCBEAUn9TnCwmSOEI:1ucVus:OvrRRq1FDFTjq19lsrjJu4W1hNUgHE5qzVNPPnVB5BA",
+    "expire_date": "2025-07-31T21:13:22.971Z"
+  }
+},
+{
+  "model": "profiles.userprofile",
+  "pk": 1,
+  "fields": {
+    "full_name": "Daniel Davila",
+    "position": "Soporte TI",
+    "area": "9",
+    "phone_number": "66903456",
+    "location": "Informatica Gerencia",
+    "last_login_at": "2025-07-18T18:46:15.809Z",
+    "medical_license": false
+  }
+},
+{
+  "model": "profiles.userprofile",
+  "pk": 2,
+  "fields": {
+    "full_name": null,
+    "position": null,
+    "area": null,
+    "phone_number": null,
+    "location": null,
+    "last_login_at": "2025-07-18T17:52:48.861Z",
+    "medical_license": true
+  }
+},
+{
+  "model": "profiles.userprofile",
+  "pk": 3,
+  "fields": {
+    "full_name": null,
+    "position": null,
+    "area": null,
+    "phone_number": null,
+    "location": null,
+    "last_login_at": "2025-07-18T18:48:14.549Z",
+    "medical_license": true
+  }
+},
+{
+  "model": "medical.doctor",
+  "pk": 2,
+  "fields": {
+    "full_name": "Enrique Pedrero",
+    "specialty": "Traumatologo",
+    "medical_license": "1",
+    "phone_number": "66903456"
+  }
+},
+{
+  "model": "medical.doctor",
+  "pk": 3,
+  "fields": {
+    "full_name": "Carlo Cardenas",
+    "specialty": "Cirujano",
+    "medical_license": "si",
+    "phone_number": "966903456"
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 1,
+  "fields": {
+    "name": "RadiologÝa",
+    "order": 1
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 2,
+  "fields": {
+    "name": "TAC",
+    "order": 2
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 3,
+  "fields": {
+    "name": "Resonancia MagnÚtica",
+    "order": 3
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 4,
+  "fields": {
+    "name": "EcografÝas",
+    "order": 4
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 5,
+  "fields": {
+    "name": "MamografÝas",
+    "order": 5
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 6,
+  "fields": {
+    "name": "EX┴MENES RADIOLËGICOS",
+    "order": 1
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 7,
+  "fields": {
+    "name": "ECOTOMOGRAF═AS",
+    "order": 3
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 8,
+  "fields": {
+    "name": "MAMOGRAF═AS",
+    "order": 4
+  }
+},
+{
+  "model": "medical.examcategory",
+  "pk": 9,
+  "fields": {
+    "name": "RESONANCIA MAGN╔TICA",
+    "order": 5
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 1,
+  "fields": {
+    "category": 1,
+    "name": "RadiografÝa de T¾rax",
+    "code": "0401001",
+    "description": "Estudio de los pulmones y el coraz¾n."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 2,
+  "fields": {
+    "category": 1,
+    "name": "RadiografÝa de Columna",
+    "code": "0401046",
+    "description": "Estudio de la columna vertebral."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 3,
+  "fields": {
+    "category": 2,
+    "name": "TAC de Crßneo",
+    "code": "0403001",
+    "description": "TomografÝa Axial Computarizada del crßneo."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 4,
+  "fields": {
+    "category": 3,
+    "name": "RM de Cerebro",
+    "code": "0405001",
+    "description": "Resonancia MagnÚtica del cerebro."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 5,
+  "fields": {
+    "category": 1,
+    "name": "TAC de Crßneo",
+    "code": "(0403001)",
+    "description": "tomar examen"
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 6,
+  "fields": {
+    "category": 1,
+    "name": "RadiografÝa de Crßneo",
+    "code": "0401002",
+    "description": "Estudio del crßneo."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 7,
+  "fields": {
+    "category": 2,
+    "name": "TAC de Abdomen",
+    "code": "0403002",
+    "description": "TomografÝa Axial Computarizada del abdomen."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 8,
+  "fields": {
+    "category": 2,
+    "name": "TAC de T¾rax",
+    "code": "0403003",
+    "description": "TomografÝa Axial Computarizada del t¾rax."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 9,
+  "fields": {
+    "category": 3,
+    "name": "RM de Columna",
+    "code": "0405002",
+    "description": "Resonancia MagnÚtica de la columna vertebral."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 10,
+  "fields": {
+    "category": 3,
+    "name": "RM de Rodilla",
+    "code": "0405003",
+    "description": "Resonancia MagnÚtica de la rodilla."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 11,
+  "fields": {
+    "category": 4,
+    "name": "EcografÝa Abdominal",
+    "code": "0402001",
+    "description": "Estudio ecogrßfico del abdomen."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 12,
+  "fields": {
+    "category": 4,
+    "name": "EcografÝa PÚlvica",
+    "code": "0402002",
+    "description": "Estudio ecogrßfico de la pelvis."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 13,
+  "fields": {
+    "category": 4,
+    "name": "EcografÝa Tiroidea",
+    "code": "0402003",
+    "description": "Estudio ecogrßfico de la tiroides."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 14,
+  "fields": {
+    "category": 5,
+    "name": "MamografÝa Bilateral",
+    "code": "0404001",
+    "description": "MamografÝa de ambas mamas."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 15,
+  "fields": {
+    "category": 5,
+    "name": "MamografÝa Unilateral",
+    "code": "0404002",
+    "description": "MamografÝa de una sola mama."
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 16,
+  "fields": {
+    "category": 6,
+    "name": "Laringe lateral, cavum",
+    "code": "04 01 002",
+    "description": "LaringofarÝngeo (laringofarinx)"
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 17,
+  "fields": {
+    "category": 6,
+    "name": "T¾rax con equipo portßtil",
+    "code": "04 01 003",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 18,
+  "fields": {
+    "category": 6,
+    "name": "T¾rax AP o LAT simple",
+    "code": "04 01 009",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 19,
+  "fields": {
+    "category": 6,
+    "name": "T¾rax AP/L",
+    "code": "04 01 070",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 20,
+  "fields": {
+    "category": 8,
+    "name": "Mama, pieza operatoria",
+    "code": "04 01 013",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 21,
+  "fields": {
+    "category": 6,
+    "name": "Abdomen simple, proy. Compl.",
+    "code": "04 01 014",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 22,
+  "fields": {
+    "category": 6,
+    "name": "PPN, Ërbitas, ATM, malar, cara cigomßtico / Horopios",
+    "code": "04 01 031",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 23,
+  "fields": {
+    "category": 6,
+    "name": "Crßneo AP/L",
+    "code": "04 01 032",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 24,
+  "fields": {
+    "category": 6,
+    "name": "Crßneo (Towne)",
+    "code": "04 01 033",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 25,
+  "fields": {
+    "category": 6,
+    "name": "Col. cervical o atlas-axis AP/L",
+    "code": "04 01 042",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 26,
+  "fields": {
+    "category": 6,
+    "name": "Col. cervical AP/L y OBL",
+    "code": "04 01 043",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 27,
+  "fields": {
+    "category": 6,
+    "name": "Col. dorsal o dorsolumbar localizada AP/L",
+    "code": "04 10 451",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 28,
+  "fields": {
+    "category": 6,
+    "name": "Col. cervical, flexi¾n y extensi¾n (Dinßmicas)",
+    "code": "04 01 044",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 29,
+  "fields": {
+    "category": 6,
+    "name": "Parrilla costal adultos",
+    "code": "04 01 046",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 30,
+  "fields": {
+    "category": 6,
+    "name": "Col. lumbar o lumbosacra flexi¾n y extensi¾n (Dinßmicas)",
+    "code": "04 01 047",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 31,
+  "fields": {
+    "category": 6,
+    "name": "Col. lumbar o lumbosacra oblicuas",
+    "code": "04 01 048",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 32,
+  "fields": {
+    "category": 6,
+    "name": "Col. total, panorßmica con folio",
+    "code": "04 01 049",
+    "description": "graduado AP y LAT"
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 33,
+  "fields": {
+    "category": 6,
+    "name": "Col. total, panorßmica con folio",
+    "code": "04 01 050",
+    "description": "graduado AP y LAT (C¾d. x2)"
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 34,
+  "fields": {
+    "category": 6,
+    "name": "Pelvis, cadera o coxofemoral",
+    "code": "04 01 051",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 35,
+  "fields": {
+    "category": 6,
+    "name": "Pelvis, cadera o coxofemoral",
+    "code": "04 01 052",
+    "description": "(menor de 6 a±os)"
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 36,
+  "fields": {
+    "category": 6,
+    "name": "Cadera rotaci¾n interna, Lawenstein",
+    "code": "04 01 053",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 37,
+  "fields": {
+    "category": 6,
+    "name": "SacroilÝacas o articulaciones sacroilÝacas",
+    "code": "04 01 054",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 38,
+  "fields": {
+    "category": 6,
+    "name": "Brazo, antebrazo, codo, mu±eca, mano, dedos, pie AP/L",
+    "code": "04 01 055",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 39,
+  "fields": {
+    "category": 6,
+    "name": "Edad ¾sea: carpo y mano",
+    "code": "04 01 056",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 40,
+  "fields": {
+    "category": 6,
+    "name": "Estudio radiol¾gico de articulaciones",
+    "code": "04 01 058",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 41,
+  "fields": {
+    "category": 6,
+    "name": "Mu±eca o tobillo AP/L y OBL",
+    "code": "04 01 059",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 42,
+  "fields": {
+    "category": 6,
+    "name": "Hombro, fÚmur, rodilla, pierna, costilla o estern¾n AP/L",
+    "code": "04 01 060",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 43,
+  "fields": {
+    "category": 6,
+    "name": "Proy. especiales en hombro, brazo, codo, mu±eca, mano, dedos, pie, tobillo, axiales, axiales rotulianas",
+    "code": "04 01 062",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 44,
+  "fields": {
+    "category": 6,
+    "name": "T·nel intercondÝleo o radiocarpiano",
+    "code": "04 01 063",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 45,
+  "fields": {
+    "category": 6,
+    "name": "Renal simple",
+    "code": "04 01 028",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 46,
+  "fields": {
+    "category": 6,
+    "name": "Vesical simple o perivesical",
+    "code": "04 01 029",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 47,
+  "fields": {
+    "category": 2,
+    "name": "Crßneo encefßlico",
+    "code": "04 03 001",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 48,
+  "fields": {
+    "category": 2,
+    "name": "Hipotßlamo-hip¾fisis",
+    "code": "04 03 002",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 49,
+  "fields": {
+    "category": 2,
+    "name": "Fosa posterior",
+    "code": "04 03 003",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 50,
+  "fields": {
+    "category": 2,
+    "name": "Temporal-oÝdo",
+    "code": "04 03 006",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 51,
+  "fields": {
+    "category": 2,
+    "name": "Ërbitas maxilofacial",
+    "code": "04 03 007",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 52,
+  "fields": {
+    "category": 2,
+    "name": "Columna cervical",
+    "code": "04 03 008",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 53,
+  "fields": {
+    "category": 2,
+    "name": "Columna dorsal, incluye mÝnima 8 espacios",
+    "code": "04 03 018",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 54,
+  "fields": {
+    "category": 2,
+    "name": "Columna Lumbar",
+    "code": "04 03 019",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 55,
+  "fields": {
+    "category": 2,
+    "name": "Cuello, partes blandas",
+    "code": "04 03 012",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 56,
+  "fields": {
+    "category": 2,
+    "name": "T¾rax",
+    "code": "04 03 013",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 57,
+  "fields": {
+    "category": 2,
+    "name": "Abdomen",
+    "code": "04 03 014",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 58,
+  "fields": {
+    "category": 2,
+    "name": "Pelvis",
+    "code": "04 03 016",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 59,
+  "fields": {
+    "category": 2,
+    "name": "MusculoesquelÚtico c/ segmento",
+    "code": "04 03 017",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 60,
+  "fields": {
+    "category": 2,
+    "name": "Angio de encÚfalo (*)",
+    "code": "04 03 101",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 61,
+  "fields": {
+    "category": 2,
+    "name": "Angio de abdomen (*)",
+    "code": "04 03 102",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 62,
+  "fields": {
+    "category": 2,
+    "name": "Angio de cuello (*)",
+    "code": "04 03 103",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 63,
+  "fields": {
+    "category": 2,
+    "name": "Angio de pelvis (*)",
+    "code": "04 03 104",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 64,
+  "fields": {
+    "category": 2,
+    "name": "Angio de t¾rax (*)",
+    "code": "04 03 105",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 65,
+  "fields": {
+    "category": 7,
+    "name": "Abdominal (incluye hÝgado, vÝa biliar, pßncreas, bazo, ri±ones, grandes vasos retroperitoneales y grandes vasos)",
+    "code": "04 04 001",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 66,
+  "fields": {
+    "category": 7,
+    "name": "Caves (ri±¾n y vejiga, o crecimiento de vÝas urinarias, partes blandas, etc.)",
+    "code": "04 04 002",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 67,
+  "fields": {
+    "category": 7,
+    "name": "PÚlvica masculina (incluye vejiga y pr¾stata)",
+    "code": "04 04 003",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 68,
+  "fields": {
+    "category": 7,
+    "name": "Renal (bilateral, o de bazo)",
+    "code": "04 04 004",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 69,
+  "fields": {
+    "category": 7,
+    "name": "Testicular (uno o ambos) (incluye doppler)",
+    "code": "04 04 010",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 70,
+  "fields": {
+    "category": 7,
+    "name": "Tiroides (incluye doppler)",
+    "code": "04 04 014",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 71,
+  "fields": {
+    "category": 7,
+    "name": "Partes blandas o musculoesquelÚtica (*)",
+    "code": "04 04 015",
+    "description": "indicar zona"
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 72,
+  "fields": {
+    "category": 7,
+    "name": "Vascular (arterial y venosa) perifÚrica (bilateral)",
+    "code": "04 04 118",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 73,
+  "fields": {
+    "category": 7,
+    "name": "Doppler de vasos del cuello",
+    "code": "04 04 119",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 74,
+  "fields": {
+    "category": 8,
+    "name": "MamografÝa bilateral",
+    "code": "04 01 010",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 75,
+  "fields": {
+    "category": 8,
+    "name": "MamografÝa proyecci¾n complementaria",
+    "code": "04 01 011",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 76,
+  "fields": {
+    "category": 8,
+    "name": "Marcaci¾n preparatoria de lesiones de la mama",
+    "code": "04 01 012",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 77,
+  "fields": {
+    "category": 9,
+    "name": "Crßneo encefßlico u oÝdos, bilateral",
+    "code": "04 05 001",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 78,
+  "fields": {
+    "category": 9,
+    "name": "Hipotßlamo-hip¾fisis",
+    "code": "04 05 002",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 79,
+  "fields": {
+    "category": 9,
+    "name": "Columna cervical",
+    "code": "04 05 004",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 80,
+  "fields": {
+    "category": 9,
+    "name": "Columna dorsal",
+    "code": "04 05 006",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 81,
+  "fields": {
+    "category": 9,
+    "name": "Columna lumbar",
+    "code": "04 05 007",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 82,
+  "fields": {
+    "category": 9,
+    "name": "AngiografÝa de encÚfalo (*)",
+    "code": "04 05 017",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 83,
+  "fields": {
+    "category": 9,
+    "name": "T¾rax (*)",
+    "code": "04 05 009",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 84,
+  "fields": {
+    "category": 9,
+    "name": "Abdomen (*)",
+    "code": "04 05 010",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 85,
+  "fields": {
+    "category": 9,
+    "name": "Pelvis",
+    "code": "04 05 011",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 86,
+  "fields": {
+    "category": 9,
+    "name": "Abdomen y pelvis",
+    "code": "04 05 012",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 87,
+  "fields": {
+    "category": 9,
+    "name": "Colangioresonancia",
+    "code": "04 05 098",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 88,
+  "fields": {
+    "category": 9,
+    "name": "Rodilla",
+    "code": "04 05 003",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 89,
+  "fields": {
+    "category": 9,
+    "name": "Columna total (cervical, dorsal, lumbar)",
+    "code": "04 05 016",
+    "description": ""
+  }
+},
+{
+  "model": "medical.examitem",
+  "pk": 90,
+  "fields": {
+    "category": 9,
+    "name": "Hombro",
+    "code": "04 05 008",
+    "description": ""
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 1,
+  "fields": {
+    "id": 24,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "ajkdaskhg",
+    "is_deleted": false,
+    "created_at": "2025-07-15T11:27:31.892Z",
+    "updated_at": "2025-07-15T12:02:27.988Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T12:02:27.989Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 2,
+  "fields": {
+    "id": 25,
+    "patient_name": "daniel",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T12:45:12.014Z",
+    "updated_at": "2025-07-15T12:45:12.014Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T12:45:12.025Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 3,
+  "fields": {
+    "id": 25,
+    "patient_name": "daniel",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T12:45:12.014Z",
+    "updated_at": "2025-07-15T12:45:56.086Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T12:45:56.096Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 4,
+  "fields": {
+    "id": 26,
+    "patient_name": "daniel  davila",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T12:47:33.225Z",
+    "updated_at": "2025-07-15T12:47:33.225Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T12:47:33.250Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 5,
+  "fields": {
+    "id": 26,
+    "patient_name": "daniel  davila",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T12:47:33.225Z",
+    "updated_at": "2025-07-15T12:48:13.210Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T12:48:13.218Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 6,
+  "fields": {
+    "id": 27,
+    "patient_name": "daniel  davila pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:04:37.785Z",
+    "updated_at": "2025-07-15T13:04:37.785Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:04:37.795Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 7,
+  "fields": {
+    "id": 27,
+    "patient_name": "daniel  davila pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:04:37.785Z",
+    "updated_at": "2025-07-15T13:04:42.470Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:04:42.488Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 8,
+  "fields": {
+    "id": 27,
+    "patient_name": "daniel  davila pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:04:37.785Z",
+    "updated_at": "2025-07-15T13:17:16.175Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:17:16.198Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 9,
+  "fields": {
+    "id": 28,
+    "patient_name": "Carlos chaparro",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:18:18.594Z",
+    "updated_at": "2025-07-15T13:18:18.594Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:18:18.603Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 10,
+  "fields": {
+    "id": 28,
+    "patient_name": "Carlos chaparro",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:18:18.594Z",
+    "updated_at": "2025-07-15T13:18:21.138Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:18:21.153Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 11,
+  "fields": {
+    "id": 29,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "Examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:22:35.371Z",
+    "updated_at": "2025-07-15T13:22:35.371Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:22:35.380Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 12,
+  "fields": {
+    "id": 29,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "Examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:22:35.371Z",
+    "updated_at": "2025-07-15T13:22:38.024Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:22:38.038Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 13,
+  "fields": {
+    "id": 30,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:25:13.267Z",
+    "updated_at": "2025-07-15T13:25:13.267Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:25:13.280Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 14,
+  "fields": {
+    "id": 30,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:25:13.267Z",
+    "updated_at": "2025-07-15T13:25:16.499Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:25:16.507Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 15,
+  "fields": {
+    "id": 31,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:42:46.358Z",
+    "updated_at": "2025-07-15T13:42:46.358Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:42:46.369Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 16,
+  "fields": {
+    "id": 31,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:42:46.358Z",
+    "updated_at": "2025-07-15T13:42:50.137Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:42:50.146Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 17,
+  "fields": {
+    "id": 32,
+    "patient_name": "daniel  davila pedrero",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:01.765Z",
+    "updated_at": "2025-07-15T13:47:01.765Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:47:01.784Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 18,
+  "fields": {
+    "id": 33,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:51.607Z",
+    "updated_at": "2025-07-15T13:47:51.607Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:47:51.626Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 19,
+  "fields": {
+    "id": 33,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:51.607Z",
+    "updated_at": "2025-07-15T13:48:08.025Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:48:08.036Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 20,
+  "fields": {
+    "id": 33,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:51.607Z",
+    "updated_at": "2025-07-15T13:48:12.046Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:48:12.066Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 21,
+  "fields": {
+    "id": 33,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:51.607Z",
+    "updated_at": "2025-07-15T13:48:25.878Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:48:25.896Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 22,
+  "fields": {
+    "id": 34,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:51:04.901Z",
+    "updated_at": "2025-07-15T13:51:04.901Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:51:04.909Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 23,
+  "fields": {
+    "id": 34,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:51:04.901Z",
+    "updated_at": "2025-07-15T13:52:35.696Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:52:35.711Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 24,
+  "fields": {
+    "id": 34,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:51:04.901Z",
+    "updated_at": "2025-07-15T13:53:44.256Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:53:44.266Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 25,
+  "fields": {
+    "id": 35,
+    "patient_name": "prueba",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:55:31.269Z",
+    "updated_at": "2025-07-15T13:55:31.269Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:55:31.282Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 26,
+  "fields": {
+    "id": 35,
+    "patient_name": "prueba",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:55:31.269Z",
+    "updated_at": "2025-07-15T13:55:51.351Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:55:51.359Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 27,
+  "fields": {
+    "id": 35,
+    "patient_name": "prueba",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:55:31.269Z",
+    "updated_at": "2025-07-15T13:56:08.994Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:56:09.003Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 28,
+  "fields": {
+    "id": 36,
+    "patient_name": "prueba 2",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:57:26.662Z",
+    "updated_at": "2025-07-15T13:57:26.662Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:57:26.671Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 29,
+  "fields": {
+    "id": 36,
+    "patient_name": "prueba 2",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:57:26.662Z",
+    "updated_at": "2025-07-15T13:57:34.172Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T13:57:34.183Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 30,
+  "fields": {
+    "id": 37,
+    "patient_name": "prueba 3",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:05:42.526Z",
+    "updated_at": "2025-07-15T14:05:42.526Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:05:42.548Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 31,
+  "fields": {
+    "id": 37,
+    "patient_name": "prueba 3",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:05:42.526Z",
+    "updated_at": "2025-07-15T14:05:58.171Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:05:58.183Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 32,
+  "fields": {
+    "id": 38,
+    "patient_name": "prueba 4",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:08:34.659Z",
+    "updated_at": "2025-07-15T14:08:34.659Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:08:34.668Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 33,
+  "fields": {
+    "id": 38,
+    "patient_name": "prueba 4",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:08:34.659Z",
+    "updated_at": "2025-07-15T14:08:42.072Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:08:42.086Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 34,
+  "fields": {
+    "id": 39,
+    "patient_name": "prueba 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:11:28.526Z",
+    "updated_at": "2025-07-15T14:11:28.526Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:11:28.535Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 35,
+  "fields": {
+    "id": 39,
+    "patient_name": "prueba 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:11:28.526Z",
+    "updated_at": "2025-07-15T14:11:40.439Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:11:40.449Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 36,
+  "fields": {
+    "id": 40,
+    "patient_name": "prueba 6",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:18:27.252Z",
+    "updated_at": "2025-07-15T14:18:27.252Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:18:27.262Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 37,
+  "fields": {
+    "id": 40,
+    "patient_name": "prueba 6",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:18:27.252Z",
+    "updated_at": "2025-07-15T14:18:32.662Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:18:32.671Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 38,
+  "fields": {
+    "id": 40,
+    "patient_name": "prueba 6",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:18:27.252Z",
+    "updated_at": "2025-07-15T14:18:39.087Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:18:39.103Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 39,
+  "fields": {
+    "id": 41,
+    "patient_name": "prueba 7",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:19:25.891Z",
+    "updated_at": "2025-07-15T14:19:25.891Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:19:25.913Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 40,
+  "fields": {
+    "id": 41,
+    "patient_name": "prueba 7",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:19:25.891Z",
+    "updated_at": "2025-07-15T14:19:28.441Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:19:28.452Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 41,
+  "fields": {
+    "id": 41,
+    "patient_name": "prueba 7",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:19:25.891Z",
+    "updated_at": "2025-07-15T14:19:34.720Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:19:34.729Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 42,
+  "fields": {
+    "id": 42,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:21:14.297Z",
+    "updated_at": "2025-07-15T14:21:14.297Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:21:14.313Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 43,
+  "fields": {
+    "id": 42,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:21:14.297Z",
+    "updated_at": "2025-07-15T14:21:17.082Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:21:17.090Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 44,
+  "fields": {
+    "id": 42,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:21:14.297Z",
+    "updated_at": "2025-07-15T14:21:25.290Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:21:25.300Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 45,
+  "fields": {
+    "id": 43,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:23:09.421Z",
+    "updated_at": "2025-07-15T14:23:09.421Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:23:09.435Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 46,
+  "fields": {
+    "id": 43,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:23:09.421Z",
+    "updated_at": "2025-07-15T14:23:12.368Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:23:12.382Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 47,
+  "fields": {
+    "id": 44,
+    "patient_name": "prueba 9",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:26:20.854Z",
+    "updated_at": "2025-07-15T14:26:20.854Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:26:20.868Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 48,
+  "fields": {
+    "id": 44,
+    "patient_name": "prueba 9",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:26:20.854Z",
+    "updated_at": "2025-07-15T14:26:24.342Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:26:24.352Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 49,
+  "fields": {
+    "id": 45,
+    "patient_name": "prueba 910",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:26:53.878Z",
+    "updated_at": "2025-07-15T14:26:53.878Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:26:53.896Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 50,
+  "fields": {
+    "id": 45,
+    "patient_name": "prueba 910",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:26:53.878Z",
+    "updated_at": "2025-07-15T14:27:01.288Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:27:01.300Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 51,
+  "fields": {
+    "id": 46,
+    "patient_name": "prueba 91",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:27:09.745Z",
+    "updated_at": "2025-07-15T14:27:09.745Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:27:09.756Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 52,
+  "fields": {
+    "id": 46,
+    "patient_name": "prueba 91",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:27:09.745Z",
+    "updated_at": "2025-07-15T14:31:43.665Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:31:43.679Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 53,
+  "fields": {
+    "id": 47,
+    "patient_name": "prueba 912",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:31:47.203Z",
+    "updated_at": "2025-07-15T14:31:47.203Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:31:47.222Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 54,
+  "fields": {
+    "id": 47,
+    "patient_name": "prueba 912",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:31:47.203Z",
+    "updated_at": "2025-07-15T14:32:57.542Z",
+    "doctor": 3,
+    "history_date": "2025-07-15T14:32:57.552Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 55,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:08:07.301Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:08:07.319Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 56,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:08:13.038Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:08:13.046Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 57,
+  "fields": {
+    "id": 49,
+    "patient_name": "prueba 102",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:18.659Z",
+    "updated_at": "2025-07-15T15:08:18.659Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:08:18.685Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 58,
+  "fields": {
+    "id": 50,
+    "patient_name": "prueba 11",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:15:00.896Z",
+    "updated_at": "2025-07-15T15:15:00.896Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:15:00.906Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 59,
+  "fields": {
+    "id": 50,
+    "patient_name": "prueba 11",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:15:00.896Z",
+    "updated_at": "2025-07-15T15:15:06.849Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:15:06.858Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 60,
+  "fields": {
+    "id": 50,
+    "patient_name": "prueba 11",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:15:00.896Z",
+    "updated_at": "2025-07-15T15:16:03.687Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:16:03.699Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 61,
+  "fields": {
+    "id": 51,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "xexa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:18:14.997Z",
+    "updated_at": "2025-07-15T15:18:14.997Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:18:15.007Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 62,
+  "fields": {
+    "id": 51,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "xexa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:18:14.997Z",
+    "updated_at": "2025-07-15T15:18:17.351Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:18:17.361Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 63,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:41:53.781Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:41:53.806Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 64,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:42:20.522Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T15:42:20.532Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 65,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:44:38.092Z",
+    "doctor": null,
+    "history_date": "2025-07-15T15:44:38.104Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 66,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:48:44.898Z",
+    "doctor": null,
+    "history_date": "2025-07-15T15:48:44.908Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 67,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T15:49:06.887Z",
+    "doctor": null,
+    "history_date": "2025-07-15T15:49:06.908Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 68,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:12:00.859Z",
+    "doctor": null,
+    "history_date": "2025-07-15T16:12:00.868Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 69,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:13:08.932Z",
+    "doctor": null,
+    "history_date": "2025-07-15T16:13:08.943Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 70,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:13:12.850Z",
+    "doctor": null,
+    "history_date": "2025-07-15T16:13:12.874Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 71,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:20:24.773Z",
+    "doctor": null,
+    "history_date": "2025-07-15T16:20:24.795Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 72,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:24:45.309Z",
+    "doctor": null,
+    "history_date": "2025-07-15T16:24:45.334Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 73,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:26:26.405Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:26:26.406Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 74,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:26:45.661Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:26:45.678Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 75,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:27:14.826Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:27:14.835Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 76,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:27:33.678Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:27:33.686Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 77,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:29:24.000Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:29:24.009Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 78,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:30:39.886Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:30:39.894Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 79,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:33:12.679Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:33:12.699Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 80,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:37:17.334Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:37:17.346Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 81,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:49:13.013Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:49:13.030Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 82,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:49:25.907Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:49:25.925Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 83,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:49:49.497Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:49:49.505Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 84,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:54:12.070Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:54:12.085Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 85,
+  "fields": {
+    "id": 53,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:55:03.031Z",
+    "updated_at": "2025-07-15T16:55:03.031Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:55:03.044Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 86,
+  "fields": {
+    "id": 53,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:55:03.031Z",
+    "updated_at": "2025-07-15T16:55:16.026Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:55:16.034Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 87,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:57:46.949Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:57:46.957Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 88,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T16:58:46.862Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T16:58:46.880Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 89,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:01:58.304Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:01:58.312Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 90,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:02:06.264Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:02:06.283Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 91,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:02:27.187Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:02:27.205Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 92,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:04:22.940Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:04:22.952Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 93,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:04:29.836Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:04:29.857Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 94,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:04:36.252Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:04:36.270Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 95,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:04:41.434Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:04:41.452Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 96,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:08:00.084Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:08:00.098Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 97,
+  "fields": {
+    "id": 54,
+    "patient_name": "prueba 13",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T17:08:26.024Z",
+    "updated_at": "2025-07-15T17:08:26.024Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:08:26.041Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 98,
+  "fields": {
+    "id": 54,
+    "patient_name": "prueba 13",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T17:08:26.024Z",
+    "updated_at": "2025-07-15T17:08:57.665Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:08:57.675Z",
+    "history_change_reason": null,
+    "history_type": "~",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 99,
+  "fields": {
+    "id": 55,
+    "patient_name": "prueba 15",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "dac",
+    "observations": "dac",
+    "is_deleted": false,
+    "created_at": "2025-07-15T17:20:44.382Z",
+    "updated_at": "2025-07-15T17:20:44.382Z",
+    "doctor": 2,
+    "history_date": "2025-07-15T17:20:44.390Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 100,
+  "fields": {
+    "id": 23,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:56:38.842Z",
+    "updated_at": "2025-07-15T01:56:38.842Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:01.055Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 101,
+  "fields": {
+    "id": 55,
+    "patient_name": "prueba 15",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "dac",
+    "observations": "dac",
+    "is_deleted": false,
+    "created_at": "2025-07-15T17:20:44.382Z",
+    "updated_at": "2025-07-15T17:20:44.382Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.300Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 102,
+  "fields": {
+    "id": 54,
+    "patient_name": "prueba 13",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T17:08:26.024Z",
+    "updated_at": "2025-07-15T17:08:57.665Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.301Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 103,
+  "fields": {
+    "id": 53,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:55:03.031Z",
+    "updated_at": "2025-07-15T16:55:16.026Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.301Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 104,
+  "fields": {
+    "id": 52,
+    "patient_name": "prueba 12",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T16:27:14.826Z",
+    "updated_at": "2025-07-15T17:08:00.084Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.302Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 105,
+  "fields": {
+    "id": 51,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "xexa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:18:14.997Z",
+    "updated_at": "2025-07-15T15:18:17.351Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.302Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 106,
+  "fields": {
+    "id": 50,
+    "patient_name": "prueba 11",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:15:00.896Z",
+    "updated_at": "2025-07-15T15:16:03.687Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.302Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 107,
+  "fields": {
+    "id": 49,
+    "patient_name": "prueba 102",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:18.659Z",
+    "updated_at": "2025-07-15T15:08:18.659Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.303Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 108,
+  "fields": {
+    "id": 48,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T15:08:07.301Z",
+    "updated_at": "2025-07-15T16:26:45.661Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.303Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 109,
+  "fields": {
+    "id": 47,
+    "patient_name": "prueba 912",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:31:47.203Z",
+    "updated_at": "2025-07-15T14:32:57.542Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.303Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 110,
+  "fields": {
+    "id": 46,
+    "patient_name": "prueba 91",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:27:09.745Z",
+    "updated_at": "2025-07-15T14:31:43.665Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.304Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 111,
+  "fields": {
+    "id": 45,
+    "patient_name": "prueba 910",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:26:53.878Z",
+    "updated_at": "2025-07-15T14:27:01.288Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.304Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 112,
+  "fields": {
+    "id": 44,
+    "patient_name": "prueba 9",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:26:20.854Z",
+    "updated_at": "2025-07-15T14:26:24.342Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.304Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 113,
+  "fields": {
+    "id": 43,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:23:09.421Z",
+    "updated_at": "2025-07-15T14:23:12.368Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.305Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 114,
+  "fields": {
+    "id": 42,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:21:14.297Z",
+    "updated_at": "2025-07-15T14:21:25.290Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.305Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 115,
+  "fields": {
+    "id": 41,
+    "patient_name": "prueba 7",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:19:25.891Z",
+    "updated_at": "2025-07-15T14:19:34.720Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.306Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 116,
+  "fields": {
+    "id": 40,
+    "patient_name": "prueba 6",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:18:27.252Z",
+    "updated_at": "2025-07-15T14:18:39.087Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.306Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 117,
+  "fields": {
+    "id": 39,
+    "patient_name": "prueba 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:11:28.526Z",
+    "updated_at": "2025-07-15T14:11:40.439Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.306Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 118,
+  "fields": {
+    "id": 38,
+    "patient_name": "prueba 4",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:08:34.659Z",
+    "updated_at": "2025-07-15T14:08:42.072Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.307Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 119,
+  "fields": {
+    "id": 37,
+    "patient_name": "prueba 3",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T14:05:42.526Z",
+    "updated_at": "2025-07-15T14:05:58.171Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.307Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 120,
+  "fields": {
+    "id": 36,
+    "patient_name": "prueba 2",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:57:26.662Z",
+    "updated_at": "2025-07-15T13:57:34.172Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.308Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 121,
+  "fields": {
+    "id": 35,
+    "patient_name": "prueba",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:55:31.269Z",
+    "updated_at": "2025-07-15T13:56:08.994Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.308Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 122,
+  "fields": {
+    "id": 34,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:51:04.901Z",
+    "updated_at": "2025-07-15T13:53:44.256Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.309Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 123,
+  "fields": {
+    "id": 33,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:51.607Z",
+    "updated_at": "2025-07-15T13:48:25.878Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.310Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 124,
+  "fields": {
+    "id": 32,
+    "patient_name": "daniel  davila pedrero",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:47:01.765Z",
+    "updated_at": "2025-07-15T13:47:01.765Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.310Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 125,
+  "fields": {
+    "id": 31,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:42:46.358Z",
+    "updated_at": "2025-07-15T13:42:50.137Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.311Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 126,
+  "fields": {
+    "id": 30,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:25:13.267Z",
+    "updated_at": "2025-07-15T13:25:16.499Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.311Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 127,
+  "fields": {
+    "id": 29,
+    "patient_name": "daniel pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "Examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:22:35.371Z",
+    "updated_at": "2025-07-15T13:22:38.024Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.312Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 128,
+  "fields": {
+    "id": 28,
+    "patient_name": "Carlos chaparro",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:18:18.594Z",
+    "updated_at": "2025-07-15T13:18:21.138Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.313Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 129,
+  "fields": {
+    "id": 27,
+    "patient_name": "daniel  davila pedrero",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examenes",
+    "observations": "examenes",
+    "is_deleted": false,
+    "created_at": "2025-07-15T13:04:37.785Z",
+    "updated_at": "2025-07-15T13:17:16.175Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.313Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 130,
+  "fields": {
+    "id": 26,
+    "patient_name": "daniel  davila",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T12:47:33.225Z",
+    "updated_at": "2025-07-15T12:48:13.210Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.314Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 131,
+  "fields": {
+    "id": 25,
+    "patient_name": "daniel",
+    "patient_rut": "18903334-6",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T12:45:12.014Z",
+    "updated_at": "2025-07-15T12:45:56.086Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:14:41.314Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 132,
+  "fields": {
+    "id": 24,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-15",
+    "diagnosis": "examen",
+    "observations": "ajkdaskhg",
+    "is_deleted": false,
+    "created_at": "2025-07-15T11:27:31.892Z",
+    "updated_at": "2025-07-15T12:02:27.988Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.315Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 133,
+  "fields": {
+    "id": 22,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:36:50.315Z",
+    "updated_at": "2025-07-15T01:36:50.315Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:14:41.315Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 134,
+  "fields": {
+    "id": 21,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:27:52.870Z",
+    "updated_at": "2025-07-15T01:27:52.870Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.316Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 135,
+  "fields": {
+    "id": 20,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "exa",
+    "observations": "exa",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:26:10.972Z",
+    "updated_at": "2025-07-15T01:26:10.972Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.316Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 136,
+  "fields": {
+    "id": 19,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:24:22.951Z",
+    "updated_at": "2025-07-15T01:24:22.951Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.317Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 137,
+  "fields": {
+    "id": 18,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:22:31.026Z",
+    "updated_at": "2025-07-15T01:22:31.026Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.317Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 138,
+  "fields": {
+    "id": 17,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:20:04.635Z",
+    "updated_at": "2025-07-15T01:20:04.635Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.318Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 139,
+  "fields": {
+    "id": 16,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:18:04.030Z",
+    "updated_at": "2025-07-15T01:18:04.030Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.318Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 140,
+  "fields": {
+    "id": 15,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:16:17.412Z",
+    "updated_at": "2025-07-15T01:16:17.412Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.319Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 141,
+  "fields": {
+    "id": 14,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:14:01.308Z",
+    "updated_at": "2025-07-15T01:14:01.308Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.319Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 142,
+  "fields": {
+    "id": 13,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:12:35.992Z",
+    "updated_at": "2025-07-15T01:12:35.992Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.320Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 143,
+  "fields": {
+    "id": 12,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:10:17.655Z",
+    "updated_at": "2025-07-15T01:10:17.655Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.320Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 144,
+  "fields": {
+    "id": 11,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examern",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:07:42.874Z",
+    "updated_at": "2025-07-15T01:07:42.874Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.320Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 145,
+  "fields": {
+    "id": 10,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:07:08.818Z",
+    "updated_at": "2025-07-15T01:07:19.166Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.321Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 146,
+  "fields": {
+    "id": 9,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "examen",
+    "observations": "examen",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:05:45.421Z",
+    "updated_at": "2025-07-15T01:05:45.421Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.321Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 147,
+  "fields": {
+    "id": 8,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "estres",
+    "observations": "estres",
+    "is_deleted": false,
+    "created_at": "2025-07-15T01:03:17.827Z",
+    "updated_at": "2025-07-15T01:03:17.827Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.322Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 148,
+  "fields": {
+    "id": 7,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "oeprar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:49:37.934Z",
+    "updated_at": "2025-07-15T00:49:37.934Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.322Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 149,
+  "fields": {
+    "id": 6,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "operar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:36:13.467Z",
+    "updated_at": "2025-07-15T00:36:13.467Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.322Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 150,
+  "fields": {
+    "id": 5,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "operar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:33:59.847Z",
+    "updated_at": "2025-07-15T00:33:59.847Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.322Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 151,
+  "fields": {
+    "id": 4,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "operar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:31:55.411Z",
+    "updated_at": "2025-07-15T00:31:55.411Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.323Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 152,
+  "fields": {
+    "id": 3,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "operar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:18:00.322Z",
+    "updated_at": "2025-07-15T00:18:00.322Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.323Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 153,
+  "fields": {
+    "id": 2,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "operar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:07:56.714Z",
+    "updated_at": "2025-07-15T00:07:56.714Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.323Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 154,
+  "fields": {
+    "id": 1,
+    "patient_name": "Carlos",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-14",
+    "diagnosis": "operar",
+    "observations": "oiperar",
+    "is_deleted": false,
+    "created_at": "2025-07-15T00:04:34.190Z",
+    "updated_at": "2025-07-15T00:04:34.190Z",
+    "doctor": null,
+    "history_date": "2025-07-17T21:14:41.324Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 155,
+  "fields": {
+    "id": 56,
+    "patient_name": "prueba 1",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "Prueba 1",
+    "observations": "Prueba 1",
+    "is_deleted": false,
+    "created_at": "2025-07-17T21:15:30.941Z",
+    "updated_at": "2025-07-17T21:15:30.941Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:15:30.951Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 156,
+  "fields": {
+    "id": 57,
+    "patient_name": "Prueba 2",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "prueba 2",
+    "observations": "",
+    "is_deleted": false,
+    "created_at": "2025-07-17T21:29:12.063Z",
+    "updated_at": "2025-07-17T21:29:12.063Z",
+    "doctor": 3,
+    "history_date": "2025-07-17T21:29:12.081Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 157,
+  "fields": {
+    "id": 58,
+    "patient_name": "prueba 3",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "prueba 3",
+    "observations": "prueba 3",
+    "is_deleted": false,
+    "created_at": "2025-07-17T21:30:02.016Z",
+    "updated_at": "2025-07-17T21:30:02.016Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T21:30:02.031Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 158,
+  "fields": {
+    "id": 59,
+    "patient_name": "PRUEBA 4",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "PR",
+    "observations": "PR",
+    "is_deleted": false,
+    "created_at": "2025-07-17T22:44:06.242Z",
+    "updated_at": "2025-07-17T22:44:06.242Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T22:44:06.255Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 159,
+  "fields": {
+    "id": 60,
+    "patient_name": "PRUEBA 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "PR",
+    "observations": "PR",
+    "is_deleted": false,
+    "created_at": "2025-07-17T22:50:14.228Z",
+    "updated_at": "2025-07-17T22:50:14.228Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T22:50:14.250Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 160,
+  "fields": {
+    "id": 61,
+    "patient_name": "PRUEBA 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "PR",
+    "observations": "PR",
+    "is_deleted": false,
+    "created_at": "2025-07-17T22:58:56.423Z",
+    "updated_at": "2025-07-17T22:58:56.423Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T22:58:56.432Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 161,
+  "fields": {
+    "id": 62,
+    "patient_name": "PRUEBA 6",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "EXAMEN PREVENTIVO",
+    "observations": "EXAMEN PREVENTIVO",
+    "is_deleted": false,
+    "created_at": "2025-07-17T23:30:06.873Z",
+    "updated_at": "2025-07-17T23:30:06.873Z",
+    "doctor": 2,
+    "history_date": "2025-07-17T23:30:06.885Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 162,
+  "fields": {
+    "id": 58,
+    "patient_name": "prueba 3",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "prueba 3",
+    "observations": "prueba 3",
+    "is_deleted": false,
+    "created_at": "2025-07-17T21:30:02.016Z",
+    "updated_at": "2025-07-17T21:30:02.016Z",
+    "doctor": 2,
+    "history_date": "2025-07-18T11:18:46.768Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 163,
+  "fields": {
+    "id": 62,
+    "patient_name": "PRUEBA 6",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "EXAMEN PREVENTIVO",
+    "observations": "EXAMEN PREVENTIVO",
+    "is_deleted": false,
+    "created_at": "2025-07-17T23:30:06.873Z",
+    "updated_at": "2025-07-17T23:30:06.873Z",
+    "doctor": 2,
+    "history_date": "2025-07-18T11:19:08.680Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 164,
+  "fields": {
+    "id": 59,
+    "patient_name": "PRUEBA 4",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "PR",
+    "observations": "PR",
+    "is_deleted": false,
+    "created_at": "2025-07-17T22:44:06.242Z",
+    "updated_at": "2025-07-17T22:44:06.242Z",
+    "doctor": 2,
+    "history_date": "2025-07-18T11:19:17.688Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 165,
+  "fields": {
+    "id": 61,
+    "patient_name": "PRUEBA 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "PR",
+    "observations": "PR",
+    "is_deleted": false,
+    "created_at": "2025-07-17T22:58:56.423Z",
+    "updated_at": "2025-07-17T22:58:56.423Z",
+    "doctor": 2,
+    "history_date": "2025-07-18T11:19:19.963Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 166,
+  "fields": {
+    "id": 60,
+    "patient_name": "PRUEBA 5",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "PR",
+    "observations": "PR",
+    "is_deleted": false,
+    "created_at": "2025-07-17T22:50:14.228Z",
+    "updated_at": "2025-07-17T22:50:14.228Z",
+    "doctor": 2,
+    "history_date": "2025-07-18T11:55:19.702Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 167,
+  "fields": {
+    "id": 57,
+    "patient_name": "Prueba 2",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "prueba 2",
+    "observations": "",
+    "is_deleted": false,
+    "created_at": "2025-07-17T21:29:12.063Z",
+    "updated_at": "2025-07-17T21:29:12.063Z",
+    "doctor": 3,
+    "history_date": "2025-07-18T11:55:19.704Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 168,
+  "fields": {
+    "id": 56,
+    "patient_name": "prueba 1",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-17",
+    "diagnosis": "Prueba 1",
+    "observations": "Prueba 1",
+    "is_deleted": false,
+    "created_at": "2025-07-17T21:15:30.941Z",
+    "updated_at": "2025-07-17T21:15:30.941Z",
+    "doctor": 3,
+    "history_date": "2025-07-18T11:55:19.704Z",
+    "history_change_reason": null,
+    "history_type": "-",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 169,
+  "fields": {
+    "id": 1,
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-18",
+    "diagnosis": "re",
+    "observations": "re",
+    "is_deleted": false,
+    "created_at": "2025-07-18T12:22:12.805Z",
+    "updated_at": "2025-07-18T12:22:12.805Z",
+    "doctor": 3,
+    "history_date": "2025-07-18T12:22:12.816Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.historicalimagingrequest",
+  "pk": 170,
+  "fields": {
+    "id": 2,
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-18",
+    "diagnosis": "pr",
+    "observations": "pr",
+    "is_deleted": false,
+    "created_at": "2025-07-18T14:48:19.010Z",
+    "updated_at": "2025-07-18T14:48:19.010Z",
+    "doctor": 3,
+    "history_date": "2025-07-18T14:48:19.025Z",
+    "history_change_reason": null,
+    "history_type": "+",
+    "history_user": null
+  }
+},
+{
+  "model": "medical.imagingrequest",
+  "pk": 1,
+  "fields": {
+    "patient_name": "prueba 8",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-18",
+    "doctor": 3,
+    "diagnosis": "re",
+    "observations": "re",
+    "is_deleted": false,
+    "created_at": "2025-07-18T12:22:12.805Z",
+    "updated_at": "2025-07-18T12:22:12.805Z",
+    "selected_exams": [
+      38
+    ]
+  }
+},
+{
+  "model": "medical.imagingrequest",
+  "pk": 2,
+  "fields": {
+    "patient_name": "prueba 10",
+    "patient_rut": "19.140.127-8",
+    "patient_phone": "966903456",
+    "patient_prevencion": "Fonasa",
+    "request_date": "2025-07-18",
+    "doctor": 3,
+    "diagnosis": "pr",
+    "observations": "pr",
+    "is_deleted": false,
+    "created_at": "2025-07-18T14:48:19.010Z",
+    "updated_at": "2025-07-18T14:48:19.010Z",
+    "selected_exams": [
+      31,
+      19
+    ]
+  }
+},
+{
+  "model": "authtoken.token",
+  "pk": "569107ae27b2942e1a9ef129ea906d69dd8102eb",
+  "fields": {
+    "user": 2,
+    "created": "2025-07-14T22:16:31.141Z"
+  }
+},
+{
+  "model": "authtoken.token",
+  "pk": "59698e12f59e641f00edd323fc2e448d4b871a04",
+  "fields": {
+    "user": 3,
+    "created": "2025-07-15T01:39:05.701Z"
+  }
+},
+{
+  "model": "authtoken.token",
+  "pk": "f04afdf7b73858d4918d0422058d70f483fd5762",
+  "fields": {
+    "user": 1,
+    "created": "2025-07-14T21:09:19.133Z"
+  }
+}
+]
